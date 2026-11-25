@@ -3,8 +3,6 @@
 
 **Document:** MediTrack SRS  
 **Checklist Version:** 0.1  
-**Start Time:** Write your actual start time  
-**End Time:** Write your actual end time  
 
 ## Results
 
